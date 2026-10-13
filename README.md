@@ -39,6 +39,12 @@ For alternative installation methods (PyPI, Docker), see the [Installation Guide
 
 ## Training Examples
 
+### Closed-loop Unitree H2
+
+See [H2 mimic and sim2sim](docs/h2.md) for external assets, the task configuration,
+training and play commands, and the Newton VBD comparison workflow.
+Robot assets, reference motions, and policy weights are supplied separately.
+
 ### 1. Velocity Tracking
 
 Train a Unitree G1 humanoid to follow velocity commands on flat terrain:

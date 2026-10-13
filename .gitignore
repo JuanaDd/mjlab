@@ -14,6 +14,15 @@ artifacts/
 render_robots.py
 benchmark_results/
 
+# Externally supplied H2 assets, motion references, and policy weights.
+h2_description/
+src/mjlab/asset_zoo/robots/unitree_h2/xmls/
+/sim2sim_inputs/
+/sim2sim_out/
+*.pt
+*.pth
+.DS_Store
+
 # Documentation outputs.
 **/_build/*
 **/generated/*

@@ -5,6 +5,12 @@ Changelog
 Upcoming version (not yet released)
 -----------------------------------
 
+Added
+^^^^^
+
+- Add closed-loop Unitree H2 motion tracking with external robot assets, head
+  tracking rewards, and a policy interface for Newton VBD sim2sim comparisons.
+
 Changed
 ^^^^^^^
 
